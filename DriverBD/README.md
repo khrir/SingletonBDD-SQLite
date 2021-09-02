@@ -1,0 +1,1 @@
+--- Pasta com o Bando de dados e arquivo essencial para o funcionamento da conexão com SQLite.
